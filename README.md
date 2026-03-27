@@ -1,11 +1,12 @@
 # Julio Cezar Machado
-# 25 Anos
-# Oficial do Exército
+
+25 anos
 
 ## 🧾 Informações
 
 - 🎓 Engenharia de Software  
-- 🔐 Cybersecurity | Data Analysis  
+- 🔐 Cybersecurity | Data Analysis
+- 🎖️ Oficial do Exército Brasileiro
 - 📍 Brazil
   
 ---
@@ -14,7 +15,6 @@
 
 - Foco em desenvolvimento de habilidades em Cybersecurity (SOC) e Data Analysis  
 - Interesse em segurança da informação, análise e interpretação de dados  
-- Em transição para a área de tecnologia, com objetivo de primeira oportunidade profissional  
 
 ---
 
