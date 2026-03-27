@@ -5,6 +5,7 @@
 - 🎓 Engenharia de Software  
 - 🔐 Cybersecurity | Data Analysis
 - 🎖️ Oficial do Exército Brasileiro
+- 🎓 Inglês - C1 Advanced Cambridge
 - ⏳ 25 anos
 - 📍 Brazil
   
