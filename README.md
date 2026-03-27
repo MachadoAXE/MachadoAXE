@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=200&section=header&text=Cybersecurity%20%7C%20Data&fontSize=30&fontColor=00ffcc&animation=fadeIn" />
 # Julio Cezar Machado
 
 25 anos
