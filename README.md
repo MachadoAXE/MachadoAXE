@@ -33,9 +33,3 @@
 <a href="https://www.linkedin.com/in/julio-cezar-machado-423135342" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/> LinkedIn
 </a>
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MachadoAXE&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MachadoAXE&layout=compact&theme=dark)
