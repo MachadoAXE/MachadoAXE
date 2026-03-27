@@ -6,8 +6,8 @@
 
 - 🎓 Engenharia de Software  
 - 🔐 Cybersecurity | Data Analysis  
-- 📍 Brazil  
-
+- 📍 Brazil
+  
 ---
 
 ## 🚀 Perfil
