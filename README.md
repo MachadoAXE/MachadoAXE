@@ -30,7 +30,7 @@
 
 ## 📫 Contato
 
-- LinkedIn: (em construção)
+- LinkedIn: www.linkedin.com/in/julio-cezar-machado-423135342
 
 ## 📊 Estatísticas
 
