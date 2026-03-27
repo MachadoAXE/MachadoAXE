@@ -1,12 +1,11 @@
 # Julio Cezar Machado
 
-25 anos
-
-## 🧾 Informações
+## 🧾 Dados
 
 - 🎓 Engenharia de Software  
 - 🔐 Cybersecurity | Data Analysis
 - 🎖️ Oficial do Exército Brasileiro
+- ⏳ 25 anos
 - 📍 Brazil
   
 ---
