@@ -2,9 +2,11 @@
 # 25 Anos
 # Oficial do Exército
 
-🎓 Formação: Engenharia de Software  
-🔐 Área de Interesse: Cybersecurity | Análise de Dados  
-📍 Localização: Brasil  
+## 🧾 Informações
+
+- 🎓 Engenharia de Software  
+- 🔐 Cybersecurity | Data Analysis  
+- 📍 Brazil  
 
 ---
 
@@ -30,3 +32,9 @@
 ## 📫 Contato
 
 - LinkedIn: (em construção)
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark)
