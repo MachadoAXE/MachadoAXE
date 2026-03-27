@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Julio%20Machado&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 # Julio Cezar Machado
 
 25 anos
