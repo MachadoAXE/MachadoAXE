@@ -31,7 +31,7 @@
 ## 📫 Contato
 
 <a href="https://www.linkedin.com/in/julio-cezar-machado-423135342" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/> LinkedIn
 </a>
 
 ## 📊 Estatísticas
