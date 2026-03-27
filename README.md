@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, me chamo Julio Cezar Machado
 
-<!--
-**MachadoAXE/MachadoAXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engenheiro de Software  
+🔐 Focado em Cybersecurity e Data  
+📍 Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- Estudando: Cybersecurity / SOC
+- Interesse: Segurança, Analise de Dados
+- Objetivo: Primeira vaga na área tech
+
+---
+
+## 🛠️ Tecnologias
+- HTML | CSS | JavaScript 
+- Node.js
+- SQL
+- Git e GitHub
+
+---
+
+
+## 📫 Contato
+- LinkedIn: (coloca aqui depois)
